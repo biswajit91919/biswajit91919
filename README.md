@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biswajit91919
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in java and android develop
+- 🌱 I’m currently learning flutter for cross platfrom application
+- 💞️ I’m looking to collaborate on any developer and it's my honor to get some knowledge
 - 📫 How to reach me biswajitbabul75039@gmail.com
 
 <!---
